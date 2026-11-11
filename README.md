@@ -12,7 +12,7 @@
 ### 👨‍💻 Sobre
 Atualmente cursando o 2º semestre de Ciência da Computação na Universidade Cidade de São Paulo. Sou apaixonado por resolver problemas através da tecnologia e possuo foco em Back-end
  
-* **Hard skills:** Python, Html & CSS, C.
+* **Hard skills:** Python, Html & CSS, C, Javascript.
 * **Soft skills:** Pontualidade, boa comunicação e escrita, vontade de aprender.
  
 ---
